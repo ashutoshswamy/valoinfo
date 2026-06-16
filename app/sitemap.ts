@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAgents, getWeapons, getMaps } from "@/lib/api";
 
-const BASE = "https://valo-info.vercel.app";
+const BASE = "https://valo-info-ashutosh.vercel.app";
 
 const STATIC_ROUTES = [
   "/",
